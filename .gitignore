@@ -1,0 +1,20 @@
+# ASP.NET Core
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+appsettings.*.json
+secrets.json
+
+# Angular
+node_modules/
+dist/
+out-tsc/
+.angular/
+
+# System files
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
