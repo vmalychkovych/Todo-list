@@ -33,3 +33,6 @@ E:\Fullstack project\Todo-list\Todo-list.API\obj\Debug\net9.0\refint\Todo-list.A
 E:\Fullstack project\Todo-list\Todo-list.API\obj\Debug\net9.0\Todo-list.API.pdb
 E:\Fullstack project\Todo-list\Todo-list.API\obj\Debug\net9.0\Todo-list.API.genruntimeconfig.cache
 E:\Fullstack project\Todo-list\Todo-list.API\obj\Debug\net9.0\ref\Todo-list.API.dll
+E:\Fullstack project\Todo-list\Todo-list.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fullstack project\Todo-list\Todo-list.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fullstack project\Todo-list\Todo-list.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

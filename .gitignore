@@ -17,4 +17,4 @@ out-tsc/
 .vscode/
 .DS_Store
 Thumbs.db
-*.log
+*.log.vs/
